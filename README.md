@@ -13,7 +13,15 @@ Faça login no site OpenWeather e vá em [API keys](https://home.openweathermap.
 No projeto:
 >npm install
 
+## Comandos
+Gerar um módulo:
+>ng g m pasta/módulo
+
+Criar um componente com o tipo `Page`:
+>ng g c pasta/módulo --type page
+
 ## Entendendo o código
 `environment.ts`: Localiza-se a API key. <br>
 `environment.prod.ts`: Localiza-se a API key. <br>
 `tslint.json`: Da linha 16 até a 20 definição do sufixo, os componentes vão ter o sufixo `Page`. <br>
+`app-routing.module.ts`: Definição das rotas.
