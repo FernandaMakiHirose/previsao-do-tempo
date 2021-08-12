@@ -8,3 +8,7 @@ Desenvolvi um aplicativo de previsão do tempo utilizando Angular como tecnologi
 
 ## Como obter uma API key do OpenWeather?
 Faça login no site OpenWeather e vá em [API keys](https://home.openweathermap.org/api_keys).
+
+## Depois de clonar o projeto
+No projeto:
+>npm install
