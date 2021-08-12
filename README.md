@@ -14,6 +14,6 @@ No projeto:
 >npm install
 
 ## Entendendo o código
-`environment.ts`: Localiza-se a API key.
-`environment.prod.ts`: Localiza-se a API key.
-`tslint.json`: Da linha 16 até a 20 definição do sufixo, os componentes vão ter o sufixo `Page`.
+`environment.ts`: Localiza-se a API key. <br>
+`environment.prod.ts`: Localiza-se a API key. <br>
+`tslint.json`: Da linha 16 até a 20 definição do sufixo, os componentes vão ter o sufixo `Page`. <br>
