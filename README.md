@@ -12,3 +12,8 @@ Faça login no site OpenWeather e vá em [API keys](https://home.openweathermap.
 ## Depois de clonar o projeto
 No projeto:
 >npm install
+
+## Entendendo o código
+`environment.ts`: Localiza-se a API key.
+`environment.prod.ts`: Localiza-se a API key.
+`tslint.json`: Da linha 16 até a 20 definição do sufixo, os componentes vão ter o sufixo `Page`.
