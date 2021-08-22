@@ -41,6 +41,10 @@ Effects:
 `tslint.json`: Da linha 16 até a 20 definição do sufixo, os componentes vão ter o sufixo `Page`. <br>
 `app-routing.module.ts`: Definição das rotas. <br>
 `home.page.ts`: Faz o Data Binding (Define como dados em diferentes formatos são mapeados) do conteúdo da `home.page.html`. <br>
+`home.page.html`: Apresenta 2 formulários. <br>
+`app.module.ts`: Na linha 30 inicializou o json e no `home.module.ts` linha 21 passa a função do reducer. <br>
+`home.reducer.ts`: Cria o reducer. <br>
+`home.actions.ts`: Despachamento das actions da `home.page.ts`, quando pesquisar por uma cidade, uma action será realizada e o reducer vai lidar com ela, a action vai adicionar o nome da cidade (modifica a store) e como deu subscribe na store o título acima do formulário de pesquisa vai atualizar com o nome da cidade pesquisada.
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
