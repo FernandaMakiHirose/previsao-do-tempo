@@ -1,6 +1,8 @@
 # Projeto para consultar a previsão do tempo via API
 Desenvolvi um aplicativo de previsão do tempo utilizando Angular como tecnologia front-end cosumindo uma API externa, utilizando o estado da aplicação com práticas avançadas.
 
+![screencapture-localhost-4200-2021-08-22-17_12_03](https://user-images.githubusercontent.com/72028645/130368733-bb9a02fe-e1a5-485a-bdad-24b34c5002e2.png)
+
 ## Pré-requisitos
 - Node.js e Angular instalados.
 - Editor de texto / IDE.
