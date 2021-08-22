@@ -13,6 +13,12 @@ Faça login no site OpenWeather e vá em [API keys](https://home.openweathermap.
 No projeto:
 >npm install
 
+Executar o projeto:
+>ng serve
+
+Abra o projeto no navegador:
+>http://localhost:4200/
+
 ## Comandos
 Gerar um módulo:
 >ng g m pasta/módulo
