@@ -3,10 +3,10 @@
   <div class="search-container">
 
     <div class="form-group">
-      <label>Pesquisar</label>
+      <label>Pesquisar cidade</label>
       <div>
         <input class="form-control" [formControl]="searchControl">
-        <button class="btn btn-dark"
+        <button class="btn btn-primary"
                 [disabled]="!searchControl.valid"
                 (click)="doSearch()">Pesquisar</button>
       </div>
