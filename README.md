@@ -8,6 +8,9 @@ Desenvolvi um aplicativo de previsão do tempo utilizando Angular como tecnologi
 - Editor de texto / IDE.
 - API key do OpenWeather.
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Como obter uma API key do OpenWeather?
 Faça login no site OpenWeather e vá em [API keys](https://home.openweathermap.org/api_keys).
 
