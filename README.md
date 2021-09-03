@@ -3,7 +3,7 @@ Desenvolvi um aplicativo de previsão do tempo utilizando Angular como tecnologi
 
 ![screencapture-localhost-4200-2021-08-22-17_12_03](https://user-images.githubusercontent.com/72028645/130368733-bb9a02fe-e1a5-485a-bdad-24b34c5002e2.png)
 
-## Pré-requisitos
+## Requisitos
 - Node.js e Angular instalados.
 - Editor de texto / IDE.
 - API key do OpenWeather.
@@ -55,9 +55,3 @@ Effects:
 `home.actions.ts`: Despachamento das actions da `home.page.ts`, quando pesquisar por uma cidade, uma action será realizada e o reducer vai lidar com ela, a action vai adicionar o nome da cidade (modifica a store) e como deu subscribe na store o título acima do formulário de pesquisa vai atualizar com o nome da cidade pesquisada.
 `home.effects.ts`: Reagem a uma action de forma assíncrona, baseados em Observables, é possível fazer uma request HTTP. <br>
 `bookmarks`: Apresenta as configurações das cidades em favorito. <br>
-
-## Sobre a Autora
-Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Fernanda_Maki_Hirose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)](https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)  [![Gmail Badge](https://img.shields.io/badge/-femahi2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:femahi2020@gmail.com)](mailto:femahi2020@gmail.com)
-
